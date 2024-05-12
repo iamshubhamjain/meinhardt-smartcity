@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meinhardt-smartcity/static/css/main.8445b868.css",
+    "main.js": "/meinhardt-smartcity/static/js/main.0552df46.js",
+    "static/media/smart-city-logo.png": "/meinhardt-smartcity/static/media/smart-city-logo.272a29ac2b09886d8227.png",
+    "static/media/township-logo.png": "/meinhardt-smartcity/static/media/township-logo.a3806524b1542d9f052c.png",
+    "static/media/airport-logo.png": "/meinhardt-smartcity/static/media/airport-logo.a9b637a8dbfead13fb64.png",
+    "static/media/city-name-logo.png": "/meinhardt-smartcity/static/media/city-name-logo.0f73b1d67743daeb0ae5.png",
+    "index.html": "/meinhardt-smartcity/index.html",
+    "main.8445b868.css.map": "/meinhardt-smartcity/static/css/main.8445b868.css.map",
+    "main.0552df46.js.map": "/meinhardt-smartcity/static/js/main.0552df46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8445b868.css",
+    "static/js/main.0552df46.js"
+  ]
+}
